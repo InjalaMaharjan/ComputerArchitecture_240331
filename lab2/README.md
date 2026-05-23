@@ -161,8 +161,7 @@ ghdl-r GATES_TB--vcd=simulation.vcd
 gtkwave simulation.vcd
 
 ExpectedTruthTable
-<img width="559" height="130" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/453f3c9c-01ec-4ea1-bfb2-b875647507e6" />
-
+![imge](https://raw.githubusercontent.com/InjalaMaharjan/ComputerArchitecture_240331/70163c39b3f1084126595dbcddc519fe3737124e/lab2/Screenshot%20(13).png)
 ```
 
 ## Conclusion
